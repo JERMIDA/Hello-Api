@@ -29,7 +29,7 @@ git checkout assignment-2
 Example create body:
 
 ```json
-{"id":1,"name":"John","email":"john@example.com"}
+{"id":1,"name":"Eshetu","email":"eshetu@gmail.com"}
 ```
 
 Notes
